@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "S2Homework_task_10/1.0.0": {
+        "runtime": {
+          "S2Homework_task_10.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S2Homework_task_10/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
